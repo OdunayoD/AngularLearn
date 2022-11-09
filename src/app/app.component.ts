@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'TourOfHereos';
+  title = 'Welcome all heroes';
+  subtitle =  'Creating a new subtitle';
+
+   
 }
